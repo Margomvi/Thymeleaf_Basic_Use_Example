@@ -1,26 +1,22 @@
+# Thymeleaf Basic Example
 
----
+Este es un proyecto básico de ejemplo utilizando **Spring Boot** y **Thymeleaf** para renderizar vistas dinámicas en una aplicación web.
 
-### 📌 **Convenciones de Commit (Conventional Commit)**
+## Tecnologías utilizadas
 
-Aquí tienes un resumen de los tipos de mensajes de commit según la convención **Conventional Commit**:
+- **Spring Boot**: Framework para crear aplicaciones Java.
+- **Thymeleaf**: Motor de plantillas para Java que se integra con Spring Boot.
+- **Maven**: Herramienta de construcción y gestión de dependencias.
 
-- `feat`: Se utiliza cuando introduces una nueva funcionalidad.
-- `fix`: Se utiliza cuando corriges un error.
-- `docs`: Para cambios o mejoras en la documentación.
-- `style`: Cambios que no afectan la funcionalidad, como mejorar la indentación o los nombres de las variables.
-- `refactor`: Modificaciones en el código que no cambian su funcionalidad pero mejoran la estructura.
-- `perf`: Cambios que mejoran el rendimiento.
-- `test`: Añadir o modificar pruebas.
-- `chore`: Tareas que no afectan la funcionalidad (ej. cambios de configuración).
-- `build`: Modificaciones relacionadas con la construcción del proyecto (ej. cambios en los archivos de configuración de Maven/Gradle).
-- `ci`: Cambios en los archivos de configuración de CI/CD.
+## Instalación
 
-### Ejemplo de Commit
+### Requisitos
 
-Si haces un cambio en la vista (HTML) del proyecto, un buen mensaje de commit siguiendo las convenciones podría ser:
+- **Java 17** o superior
+- **Maven** instalado
+
+### Clonación del proyecto
 
 ```bash
-git commit -m "feat: agregar vista de usuarios con Thymeleaf"
+git clone https://github.com/TuUsuario/TuRepositorio.git
 ```
-
