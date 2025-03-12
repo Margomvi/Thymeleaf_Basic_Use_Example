@@ -34,22 +34,6 @@ Once the application is running, you can access it at:
 ```bash
 http://localhost:8080/users
 ```
-### Project Structure
-
-The project follows the typical structure of a Spring Boot application:
-
-```bash
-src/
-├── main/
-│   ├── java/com/example/Thymeleaf_Basic_Example/
-│   │   ├── ThymeleafBasicExampleApplication.java
-│   │   └── controllers/
-│   ├── resources/
-│   │   ├── static/
-│   │   ├── templates/
-│   │   │   └── usuarios.html
-│   │   ├── application.properties
-```
 
 ### Contribution
 
