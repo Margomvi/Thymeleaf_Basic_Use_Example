@@ -48,13 +48,13 @@ If you'd like to contribute to this project, please follow the steps below:
 
 This project follows the Conventional Commit guidelines. Below are some examples of commit messages:
 
-feat: add new functionality
-fix: resolve bug in business logic
-docs: update documentation
-chore: update configuration files
-style: improve code styling
-perf: improve performance
-test: add or modify tests
+- feat: add new functionality
+- fix: resolve bug in business logic
+- docs: update documentation
+- chore: update configuration files
+- style: improve code styling
+- perf: improve performance
+- test: add or modify tests
 
 ### Application Details
 
