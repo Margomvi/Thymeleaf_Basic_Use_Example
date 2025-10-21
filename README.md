@@ -1,8 +1,8 @@
 ---
-description: I'm going to use this page to document my experience with Gitbook
+description: Centralized Documentation on Gitbook
 ---
 
-# Gitbook Testing
+# Gitbook Documentation
 
 ### Overview
 
@@ -12,10 +12,11 @@ The goal of this test is to understand how GitBook handles external documentatio
 
 ### Index
 
-1. [Creating a Space](gitbook-testing/creating-a-space.md)
-2. [Connecting Gitbook with GitHub](gitbook-testing/connecting-gitbook-with-github.md)
-3. [Selecting Repositories](gitbook-testing/selecting-repositories.md)
-4. [Synchronization Results](gitbook-testing/synchronization-results.md)
+1. [Creating a Space](gitbook-documentation/creating-a-space.md)
+2. [Connecting Gitbook with GitHub](gitbook-documentation/connecting-gitbook-with-github.md)
+3. [Selecting Repositories](gitbook-documentation/selecting-repositories.md)
+4. [Synchronization Results](gitbook-documentation/synchronization-results.md)
+5. [Collaboration and Publishing Features](gitbook-documentation/collaboration-and-publishing-features.md)
 
 ### Observations <a href="#observations" id="observations"></a>
 
