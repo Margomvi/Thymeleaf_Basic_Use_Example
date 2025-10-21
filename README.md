@@ -1,64 +1,23 @@
-# Thymeleaf Basic Example
+---
+description: I'm going to use this page to document my experience with Gitbook
+---
 
-This is a basic example project using **Spring Boot** and **Thymeleaf** to render dynamic views in a web application.
+# Gitbook Testing
 
-## Technologies Used
+### Overview
 
-* **Spring Boot**: A framework for building Java applications.
-* **Thymeleaf**: A templating engine for Java, integrated with Spring Boot.
-* **Maven**: A build automation tool used to manage dependencies.
+As part of my exploration of GitBook, I created a new _Space_ to learn how to link and synchronize a GitHub repository with GitBook.
 
-## Installation
+The goal of this test is to understand how GitBook handles external documentation sources, especially Markdown files (such as `README.md`), and how synchronization works between the two platforms.
 
-### Prerequisites
+### Index
 
-* **Java 17** or higher.
-* **Maven** installed.
+1. [Creating a Space](gitbook-testing/creating-a-space.md)
+2. [Connecting Gitbook with GitHub](gitbook-testing/connecting-gitbook-with-github.md)
+3. [Selecting Repositories](gitbook-testing/selecting-repositories.md)
+4. [Synchronization Results](gitbook-testing/synchronization-results.md)
 
-### Clone the Project
+### Observations <a href="#observations" id="observations"></a>
 
-```bash
-git clone https://github.com/Margomvi/Thymeleaf_Basic_Use_Example.git
-```
-
-### Build and run the application
-
-Make sure Maven is installed and then run the following command from the root of the project:
-
-```bash
-mvn spring-boot:run
-```
-
-### Access the Application
-
-Once the application is running, you can access it at:
-
-```bash
-http://localhost:8080/users
-```
-
-### Contribution
-
-If you'd like to contribute to this project, please follow the steps below:
-
-* Fork the project.
-* Create a new branch (git checkout -b feature/new-feature).
-* Make your changes and commit them with an appropriate message following the Conventional Commits guidelines.
-* Open a pull request with a clear description of your changes.
-
-### Commit Message Guidelines
-
-This project follows the Conventional Commit guidelines. Below are some examples of commit messages:
-
-* feat: add new functionality
-* fix: resolve bug in business logic
-* docs: update documentation
-* chore: update configuration files
-* style: improve code styling
-* perf: improve performance
-* test: add or modify tests
-
-### Application Details
-
-* The project uses Thymeleaf for rendering dynamic HTML views with the Spring Boot controller.
-* The UserController.java class fetches user data and passes it to the Thymeleaf template.
+* GitBook immediately recognized the Markdown structure and rendered it cleanly.
+* The integration process was straightforw
