@@ -6,4 +6,5 @@
   * [Selecting Repositories](gitbook-documentation/selecting-repositories.md)
   * [Synchronization Results](gitbook-documentation/synchronization-results.md)
   * [Collaboration and Publishing Features](gitbook-documentation/collaboration-and-publishing-features.md)
+  * [Customizing the Look and Feel of the Documentation](gitbook-documentation/customizing-the-look-and-feel-of-the-documentation.md)
 * [Thymeleaf Basic Example](<README (1).md>)

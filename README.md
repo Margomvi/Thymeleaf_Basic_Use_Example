@@ -17,6 +17,7 @@ The goal of this test is to understand how GitBook handles external documentatio
 3. [Selecting Repositories](gitbook-documentation/selecting-repositories.md)
 4. [Synchronization Results](gitbook-documentation/synchronization-results.md)
 5. [Collaboration and Publishing Features](gitbook-documentation/collaboration-and-publishing-features.md)
+6. [Customizing the Look and Feel of the Documentation](gitbook-documentation/customizing-the-look-and-feel-of-the-documentation.md)
 
 ### Observations <a href="#observations" id="observations"></a>
 
